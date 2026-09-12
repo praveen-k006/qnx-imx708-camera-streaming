@@ -1,0 +1,28 @@
+# Build output
+build/
+
+# Compiled objects / binaries
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# IDE/editor files
+.project
+.cproject
+.settings/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
